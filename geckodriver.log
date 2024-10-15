@@ -1,0 +1,29 @@
+1727456432199	geckodriver	INFO	Listening on 127.0.0.1:53003
+1727456435253	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53004" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\draga\\AppData\\Local\\Temp\\rust_mozprofileSXyGxn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1727456435981	Marionette	INFO	Marionette enabled
+1727456436206	Marionette	INFO	Listening on port 53025
+WebDriver BiDi listening on ws://127.0.0.1:53004
+Read port: 53025
+1727456436401	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://qahiringtask.dev.fishingbooker.com/js/jquery-1.10.2.min.js?v=1718190915, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1727456466012	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1727630172155	geckodriver	INFO	Listening on 127.0.0.1:56552
+1727630175220	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56553" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\draga\\AppData\\Local\\Temp\\rust_mozprofileo5F7P4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1727630176072	Marionette	INFO	Marionette enabled
+1727630176252	Marionette	INFO	Listening on port 56566
+WebDriver BiDi listening on ws://127.0.0.1:56553
+Read port: 56566
+1727630176419	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://qahiringtask.dev.fishingbooker.com/js/jquery-1.10.2.min.js?v=1718190915, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015, line 1: Script terminated by timeout at:
+104/T/<@https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015:1:11646
+t@https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015:1:11507
+
+1727630204491	Marionette	INFO	Stopped listening on port 56566
+Dynamically enable window occlusion 1
